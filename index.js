@@ -66,8 +66,4 @@ const displayClassement = () => {
   }
 }
 
-const displayPosition = () => {
-
-}
-
 hitMochinePgrm();
